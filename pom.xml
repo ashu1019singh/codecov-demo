@@ -30,8 +30,7 @@
 		<module>zuul-apigateway</module>
 	</modules>
 
-	<!-- <build>
-		<!-- <sourceDirectory>src/main/java</sourceDirectory> -->
+	<build>
 		<plugins>
 			<plugin>
 				<groupId>org.jacoco</groupId>
@@ -54,4 +53,4 @@
 			</plugin>
 		</plugins>
 	</build>
-</project> -->
+</project>
