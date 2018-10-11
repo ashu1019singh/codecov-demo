@@ -30,7 +30,7 @@
 		<module>zuul-apigateway</module>
 	</modules>
 
-	<build>
+	<!-- <build>
 		<!-- <sourceDirectory>src/main/java</sourceDirectory> -->
 		<plugins>
 			<plugin>
@@ -54,4 +54,4 @@
 			</plugin>
 		</plugins>
 	</build>
-</project>
+</project> -->
