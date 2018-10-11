@@ -1,3 +1,5 @@
+[![codecov](https://codecov.io/gh/ashu1019singh/codecov-demo/branch/master/graph/badge.svg)](https://codecov.io/gh/ashu1019singh/codecov-demo)
+
 **Spring Boot Cloud Native Microservices Architecture**
 [![N|Solid](https://spring.io/img/homepage/icon-spring-cloud-data-flow.svg)](https://spring.io/img/homepage/icon-spring-cloud-data-flow.svg)
 ***Modules***
