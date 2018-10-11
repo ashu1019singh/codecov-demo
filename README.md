@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.com/ashu1019singh/codecov-demo.svg?branch=master)](https://travis-ci.com/ashu1019singh/codecov-demo)
+
 [![codecov](https://codecov.io/gh/ashu1019singh/codecov-demo/branch/master/graph/badge.svg)](https://codecov.io/gh/ashu1019singh/codecov-demo)
 
 **Spring Boot Cloud Native Microservices Architecture**
